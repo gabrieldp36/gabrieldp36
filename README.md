@@ -1,4 +1,4 @@
-#⚡¡Hola, soy Gabriel Domíguez Prado! 🚀
+⚡#¡Hola, soy Gabriel Domíguez Prado! 🚀
 ---
 
 Me defino cómo un apasionado de la programación. Me caracterizo por ser profesional, responsable y autodidacta. Me entusiasman los desafíos y el trabajo en equipo 💪😃.
