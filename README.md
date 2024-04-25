@@ -1,4 +1,4 @@
-⚡¡Hola, soy Gabriel Domíguez Prado! 🚀
+:⚡¡Hola, soy Gabriel Domíguez Prado! 🚀:
 ---
 
 
