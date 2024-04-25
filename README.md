@@ -1,4 +1,5 @@
 ⚡¡Hola, soy Gabriel Domíguez Prado! 🚀
+
 ---
 
 Me defino cómo un apasionado de la programación. Me caracterizo por ser profesional, responsable y autodidacta. Me entusiasman los desafíos y el trabajo en equipo 💪😃.
@@ -13,5 +14,7 @@ Me defino cómo un apasionado de la programación. Me caracterizo por ser profes
      ✅ Otros conocimientos: TDD, Linux, Apache, Webmin, Bitbucket, Git, GitHub y Heroku.
 
 💬 Contacto:
+
 ✉ gabrieldominguezprado@gmail.com
+
 😺 https://github.com/gabrieldp36
