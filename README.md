@@ -13,7 +13,7 @@ Me defino cómo un apasionado de la programación. Me caracterizo por ser profes
 
 💬 Contacto:
 
-✉ gabrieldominguezprado@gmail.com
+📫 gabrieldominguezprado@gmail.com
 
 💼 https://www.linkedin.com/in/dominguezprado/
 
