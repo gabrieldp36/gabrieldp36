@@ -9,7 +9,7 @@ Me defino cómo un apasionado de la programación. Me caracterizo por ser profes
       ✅ Back-end: Node, Express.JS, Socket.IO, JWT, OAuth, Api Rest y PostMan.
       ✅ Bases de datos: SQL Server, MySQL y MongoDB.
       ✅ ODM/ORM: Mongoose y Sequelize.
-      ✅ AI: Manejo de APIs de OpenAI
+      ✅ AI: Manejo de APIs de OpenAI.
       ✅ Otros conocimientos: TDD, Linux, Apache, Webmin, Bitbucket, Git, GitHub y Heroku.
 
 💬 Contacto:
