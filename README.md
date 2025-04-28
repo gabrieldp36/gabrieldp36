@@ -6,11 +6,11 @@ Me defino cómo un apasionado de la programación. Me caracterizo por ser profes
 
       ✅ Lenguajes: HTML5, CSS3, SASS, JavaScript, TypeScript , PHP, C++, Java y T-SQL.
       ✅ Front-end: UX/UI, Figma, Angular v15+, React v18, Material UI, PrimeNG, Bootstrap y Responsive Design.
-      ✅ Back-end: Node, Express.JS, Socket.IO, JWT, OAuth, Api Rest y PostMan.
+      ✅ Back-end: Node, Express.JS, Socket.IO, Docker, Kubernetes, JWT, OAuth, Api Rest y PostMan.
       ✅ Bases de datos: SQL Server, MySQL y MongoDB.
       ✅ ODM/ORM: Mongoose y Sequelize.
       ✅ AI: Manejo de APIs de OpenAI.
-      ✅ Otros conocimientos: TDD, Linux, Apache, Webmin, Bitbucket, Git, GitHub y Heroku.
+      ✅ Otros conocimientos: TDD, Linux, Apache, Webmin, Bitbucket, Git, GitHub y Heroku
 
 💬 Contacto:
 
